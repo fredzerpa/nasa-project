@@ -1,0 +1,29 @@
+{
+  "name": "nasa-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd server && npm start",
+    "client": "npm start --prefix client",
+    "server": "npm run watch --prefix server",
+    "watch": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\"",
+    "test": "npm test --prefix server && npm test --prefix client",
+    "install-client": "npm install --prefix client",
+    "install-server": "npm install --prefix server",
+    "install": "npm run install-server && npm run install-client",
+    "deploy": "npm run build --prefix client && npm start --prefix server",
+    "deploy-cluster": "npm run build --prefix client && npm run cluster --prefix server"
+  },
+  "keywords": [
+    "nasa-api",
+    "nasa",
+    "mission",
+    "control"
+  ],
+  "author": "Fred Zerpa Gil <fredzerpa@gmail.com> (https://github.com/fredzerpa/)",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^6.4.0"
+  }
+}

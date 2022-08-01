@@ -1,0 +1,106 @@
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+::1 - - [13/Jan/2022:12:39:12 +0000] "GET / HTTP/1.1" 200 2573 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:39:12 +0000] "GET /static/js/main.4f2e71ce.chunk.js HTTP/1.1" 200 14216 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:39:12 +0000] "GET /static/js/2.97614192.chunk.js HTTP/1.1" 200 461992 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:39:15 +0000] "GET /sound/click.mp3 HTTP/1.1" 200 2688 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:39:15 +0000] "GET /sound/typing.mp3 HTTP/1.1" 200 5760 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:39:15 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 200 5376 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:39:15 +0000] "GET /sound/success.mp3 HTTP/1.1" 200 98497 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:39:15 +0000] "GET /sound/abort.mp3 HTTP/1.1" 200 11548 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:39:15 +0000] "GET /sound/warning.mp3 HTTP/1.1" 200 28800 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:39:15 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:39:15 +0000] "GET /planets HTTP/1.1" 200 9862 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:39:15 +0000] "GET /favicon.png HTTP/1.1" 200 4500 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:39:15 +0000] "GET /img/background-large.jpg HTTP/1.1" 200 778461 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:39:15 +0000] "GET /img/glow.png HTTP/1.1" 200 455 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:39:16 +0000] "GET /manifest.json HTTP/1.1" 200 306 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:39:16 +0000] "GET /favicon.png HTTP/1.1" 304 - "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:39:53 +0000] "POST /launches HTTP/1.1" 201 195 "http://localhost:4000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:39:53 +0000] "GET /launches HTTP/1.1" 200 397 "http://localhost:4000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:40:27 +0000] "POST /launches HTTP/1.1" 201 193 "http://localhost:4000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [13/Jan/2022:12:40:27 +0000] "GET /launches HTTP/1.1" 200 591 "http://localhost:4000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+MongoDB connection ready!
+MongoDB connection ready!
+MongoDB connection ready!
+MongoDB connection ready!
+MongoDB connection ready!
+8 habitable planets found!
+Listening on PORT 4000...
+MongoDB connection ready!
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+MongoDB connection ready!
+8 habitable planets found!
+Listening on PORT 4000...
+MongoDB connection ready!
+MongoDB connection ready!
+MongoDB connection ready!
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+MongoDB connection ready!
+MongoDB connection ready!
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+8 habitable planets found!
+Listening on PORT 4000...
+::1 - - [24/Jan/2022:04:17:08 +0000] "GET / HTTP/1.1" 200 2573 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:08 +0000] "GET /static/js/2.97614192.chunk.js HTTP/1.1" 200 461992 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:08 +0000] "GET /static/js/main.4f2e71ce.chunk.js HTTP/1.1" 200 14216 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:09 +0000] "GET /sound/click.mp3 HTTP/1.1" 304 - "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:09 +0000] "GET /sound/typing.mp3 HTTP/1.1" 304 - "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:09 +0000] "GET /sound/deploy.mp3 HTTP/1.1" 304 - "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:09 +0000] "GET /sound/success.mp3 HTTP/1.1" 304 - "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:09 +0000] "GET /sound/abort.mp3 HTTP/1.1" 304 - "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:09 +0000] "GET /sound/warning.mp3 HTTP/1.1" 304 - "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:09 +0000] "GET /launches HTTP/1.1" 200 201 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:09 +0000] "GET /planets HTTP/1.1" 304 - "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:09 +0000] "GET /favicon.png HTTP/1.1" 304 - "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:09 +0000] "GET /img/background-large.jpg HTTP/1.1" 304 - "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:09 +0000] "GET /img/glow.png HTTP/1.1" 304 - "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:09 +0000] "GET /manifest.json HTTP/1.1" 304 - "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:19 +0000] "GET /manifest.json HTTP/1.1" 304 - "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:19 +0000] "GET /static/js/main.4f2e71ce.chunk.js.map HTTP/1.1" 200 29956 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:19 +0000] "GET /static/js/2.97614192.chunk.js.map HTTP/1.1" 200 1649083 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:36 +0000] "POST /launches HTTP/1.1" 201 195 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:17:36 +0000] "GET /launches HTTP/1.1" 200 397 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:18:04 +0000] "POST /launches HTTP/1.1" 201 195 "http://localhost:4000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:18:05 +0000] "GET /launches HTTP/1.1" 200 593 "http://localhost:4000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:18:11 +0000] "POST /launches HTTP/1.1" 201 195 "http://localhost:4000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:18:11 +0000] "GET /launches HTTP/1.1" 200 789 "http://localhost:4000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:18:13 +0000] "POST /launches HTTP/1.1" 201 195 "http://localhost:4000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+::1 - - [24/Jan/2022:04:18:13 +0000] "GET /launches HTTP/1.1" 200 985 "http://localhost:4000/launch" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
